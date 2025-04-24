@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I’m Wafa Saif Aldalbahi 👋</h1>
 
-<p align="center">
-  <img src="assets/profile.jpg" width="160" height="160" alt="Wafa’s photo">
-</p>
 
 <p align="center">
   Cybersecurity & Data Science Enthusiast • AWS Certified Cloud Practitioner • CompTIA Security+ & CHFI •
@@ -14,7 +11,7 @@
 - 🎓 B.Sc. & M.Sc. in Computer Science (GPA 4.51 & 4.27)  
 - 📊 Data Science trainee at SDAIA T5 Bootcamp (Data Science & AI)  
 - 🔍 Skilled in digital forensics, threat analysis, incident response, and ML modeling  
-- ☁️ AWS Cloud Practitioner | CompTIA Security+ | CHFI | CySA+  
+- ☁️ AWS Cloud Practitioner | CompTIA Security+ | CHFI  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wafa-aldalbahi/) • wafa.saif.aldalbahi@gmail.com  
 
 ---
@@ -59,12 +56,13 @@ Thesis: High-performance & Secure Implementations for Elliptic Curve Cryptosyste
 
 ### 📄 Download My Resume
 
-[assets/WAFA_ALDABAHI_Resume_2025_IT.pdf](assets/WAFA_ALDABAHI_Resume_2025_IT.pdf)  
-[assets/Wafa_ALDABAHI_Resume_cybersecurity.pdf](assets/Wafa_ALDABAHI_Resume_cybersecurity.pdf)  
+- [IT & Support Resume (2025)](assets/WAFA_ALDABAHI_Resume_2025_IT.pdf)  
+- [Cybersecurity Resume](assets/Wafa_ALDABAHI_Resume_cybersecurity.pdf)  
+- [Data Science & AI Resume](assets/WAFA_ALDALBAHI_Resume_4.pdf)  
 
 ---
 
 ### 🎲 Fun Fact
 
-> I believe digital forensics is the art of telling stories from bits and bytes.
+> By day I train ML models on flight-delay data in AWS; by night I chase malware footprints in memory dumps—because every byte has a secret to tell.
 
