@@ -44,16 +44,7 @@
 | Sales Data Analysis | Sales dataset analysis from SDAIA T5 Bootcamp | [📄 Notebook](https://github.com/WafaSaif/data-analysis-project/blob/main/The_Analysis_of_Sales_T5_Camp.ipynb) | Python, Pandas, Matplotlib |
 | STC TV Analysis | Data analysis of STC TV dataset (T1) | [📄 Notebook](https://github.com/WafaSaif/data-analysis-project/blob/main/stc%20TV_T1.ipynb) | Python, Pandas, Seaborn |
 
----
 
-### 🎓 Education
-
-**M.Sc. Computer Science**, Imam Muhammad Ibn Saud Islamic University (GPA 4.27)  
-Thesis: High-performance & Secure Implementations for Elliptic Curve Cryptosystem  
-
-**B.Sc. Computer Science**, Princess Nora Bint Abdulrahman University (GPA 4.51, Second Class Honor)  
-
----
 
 ### 📄 Download My Resume
 
