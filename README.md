@@ -63,6 +63,4 @@ Thesis: High-performance & Secure Implementations for Elliptic Curve Cryptosyste
 
 ---
 
-### 🎲 Fun Fact
 
-> By day I train ML models on flight-delay data in AWS; by night I chase malware footprints in memory dumps—because every byte has a secret to tell.
