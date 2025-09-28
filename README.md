@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I’m Wafa Saif Aldalbahi 👋</h1>
 
-
 <p align="center">
   Cybersecurity & Data Science Enthusiast • AWS Certified Cloud Practitioner • CompTIA Security+ & CHFI •
 </p>
@@ -30,18 +29,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WafaSaif&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WafaSaif&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaSaif&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project                     | Description                                          | Tech Stack                             |
-|-----------------------------|------------------------------------------------------|----------------------------------------|
-| Flight-Delay-ML             | Predict flight delays using ML classification        | Python, Pandas, scikit-learn           |
-| Live-Forensicator           | PowerShell DFIR framework for artifact collection    | PowerShell, Windows Forensics          |
-| Customer Churn Prediction   | ML model achieving 85% accuracy                      | Python, scikit-learn, Pandas           |
-| Real-Time Object Detection  | YOLO-based detection in video streams                | Python, OpenCV, TensorFlow             |
+| Project | Description | Notebook Link | Tech Stack |
+|---------|-------------|---------------|------------|
+| Flight Delay ML | Predict flight delays using classification models | [📄 Notebook](https://github.com/WafaSaif/data-analysis-project/blob/main/Wafa_Flight_Delay-Student.ipynb) | Python, Pandas, scikit-learn |
+| Credit Card Fraud Detection | Machine learning solution for fraud detection | [📄 Notebook](https://github.com/WafaSaif/data-analysis-project/blob/main/Credit_Card_Fraud_Detection-Solution.ipynb) | Python, scikit-learn, Pandas |
+| Sales Data Analysis | Sales dataset analysis from SDAIA T5 Bootcamp | [📄 Notebook](https://github.com/WafaSaif/data-analysis-project/blob/main/The_Analysis_of_Sales_T5_Camp.ipynb) | Python, Pandas, Matplotlib |
+| STC TV Analysis | Data analysis of STC TV dataset (T1) | [📄 Notebook](https://github.com/WafaSaif/data-analysis-project/blob/main/stc%20TV_T1.ipynb) | Python, Pandas, Seaborn |
 
 ---
 
@@ -65,4 +66,3 @@ Thesis: High-performance & Secure Implementations for Elliptic Curve Cryptosyste
 ### 🎲 Fun Fact
 
 > By day I train ML models on flight-delay data in AWS; by night I chase malware footprints in memory dumps—because every byte has a secret to tell.
-
